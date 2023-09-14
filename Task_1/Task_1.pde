@@ -18,5 +18,5 @@ void alder(){
 void nameage(String name, int age){
 String navn = name;
 int alder = age;
-println(name+age);
+println("My name is "+name+", I am "+age+"years old");
 }
